@@ -1,0 +1,35 @@
+
+#bleu{
+	width: 30px;
+	height: 30px;
+	background-color: blue;
+	margin:0 20px;
+}
+#rouge{
+	width: 30px;
+	height: 30px;
+	background-color: red;
+	margin:0 20px;
+}
+#vert{
+	width: 30px;
+	height: 30px;
+	background-color: green;
+	margin:0 20px;
+}
+.para{
+	margin: 15px auto;
+	width: 50%;
+	border: 1px solid black;
+	border-radius: 8px;
+	padding: 10px;
+}
+#img1{
+	width: 15%;
+	position: absolute;
+}
+@keyframes anim1{
+	
+	12% {top:100px;}
+	100%{top: 400px;}
+}
